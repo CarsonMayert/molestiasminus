@@ -1,0 +1,30 @@
+{
+  "name": "web3-react-example",
+  "scripts": {
+    "start": "next",
+    "build": "next build && next export"
+  },
+  "dependencies": {
+    "@wansproject/providers": "^5.0.2",
+    "@wansproject/units": "^5.0.1",
+    "@web3-react-wan/abstract-connector": "latest",
+    "@web3-react-wan/authereum-connector": "latest",
+    "@web3-react-wan/core": "latest",
+    "@web3-react-wan/fortmatic-connector": "latest",
+    "@web3-react-wan/frame-connector": "latest",
+    "@web3-react-wan/injected-connector": "latest",
+    "@web3-react-wan/ledger-connector": "latest",
+    "@web3-react-wan/network-connector": "latest",
+    "@web3-react-wan/portis-connector": "latest",
+    "@web3-react-wan/squarelink-connector": "latest",
+    "@web3-react-wan/torus-connector": "latest",
+    "@web3-react-wan/trezor-connector": "latest",
+    "@web3-react-wan/walletconnect-connector": "latest",
+    "@web3-react-wan/walletlink-connector": "latest",
+    "@web3-react-wan/magic-connector": "latest",
+    "next": "^9.2.1",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "typescript": "^3.7.5"
+  }
+}
